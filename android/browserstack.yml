@@ -23,6 +23,8 @@ buildIdentifier: '#${BUILD_NUMBER}' # Supports strings along with either/both ${
 
 source: cucumber-js:appium-sample-master:v1.0
 
+CUSTOM_TAG_1: "bstack_sample"
+
 # Set `app` to define the app that is to be used for testing. 
 # It can either take the id of any uploaded app or the path of the app directly.
 app: ./WikipediaSample.apk
