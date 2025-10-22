@@ -28,6 +28,8 @@ source: cucumber-js:appium-sample-master:v1.0
 app: ./BStackSampleApp.ipa
 # app: ./LocalSample.ipa #For running local tests
 
+CUSTOM_TAG_1: "bstack_sample"
+
 # =======================================
 # Platforms (Browsers / Devices to test)
 # =======================================
